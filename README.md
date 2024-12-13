@@ -1,4 +1,4 @@
-# app_prod_atacado
+# encarte_app
 
 A new Flutter project.
 
